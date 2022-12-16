@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NinuVJ
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning application development in android studio
+- 🌱 I’m a full stack developer
 
 
 <!---
